@@ -35,4 +35,29 @@ background-color: #4E47FF;
 color: #ffff;
 border-radius: 10px;}
 
+.action-section{display: flex;
+margin-top: 116px;
+justify-content: space-between;
+align-items: center;
+}
+
+.act-sec-title{font-size: 42px;
+font-weight: bold;
+margin-left: 141px;}
+
+.act-sec-sub-title{margin-left: 141px; color: rgba(37, 36, 50, 0.5);
+}
+
+.llp{margin-left: 141px; font-size: 12px;
+padding: 9px 23px;
+border: none;
+border-radius: 10px;
+background-color: #4E47FF;
+color: #ffff;}
+
+.img{margin-right: 159px;
+height: 328px; width: 403;
+border-radius: 48px;
+}
+
 
