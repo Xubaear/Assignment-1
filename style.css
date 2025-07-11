@@ -126,3 +126,44 @@ gap: 5px;
   padding: 10px;
   border: none;
 }
+
+
+
+.final {
+  margin: 0;
+  background-color: white;
+  justify-items: center;
+}
+
+footer h1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  padding-top: 105px;
+  color: #4E47FF;
+
+}
+
+footer p {
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.links{
+  display: flex;
+  list-style: none;
+  gap: 48px;
+  font-size: 26px;
+  padding-bottom: 105px;
+  padding-right: 50px;
+}
+
+footer a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+button:hover{background-color: rgb(131, 206, 181);
+color: #252432;}
